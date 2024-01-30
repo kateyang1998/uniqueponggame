@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/aboutscene.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/background.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/background2.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/ball.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/barrier.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/bat1.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/bat2.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/bat3.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/btn0.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/btn1.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/btn2.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/btn3.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/btn4.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/btn5.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/btn6.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/btn7.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/choosetitle.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/Fonts/Font.spritefont</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/helpscene.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/maintitle.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/scoretitle.png</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/Sounds/bgm1.mp3</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/Sounds/chimes.mp3</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/Sounds/click.wav</File>
+    <File>G:/小天才的专属文件夹/MonoGame/KYMRFinal-Fixed/KYMRFinal/KYMRFinal/Content/Sounds/ding.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

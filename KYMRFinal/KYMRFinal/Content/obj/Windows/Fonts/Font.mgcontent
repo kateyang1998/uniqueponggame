@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>G:/小天才的专属文件夹/MonoGame/KYMRFinal-donedone/KYMRFinal-almost/KYMRFinal-start/KYMRFinal/KYMRFinal/Content/Fonts/Font.spritefont</SourceFile>
+  <SourceTime>2023-12-06T18:29:40-05:00</SourceTime>
+  <DestFile>G:/小天才的专属文件夹/MonoGame/KYMRFinal-donedone/KYMRFinal-almost/KYMRFinal-start/KYMRFinal/KYMRFinal/Content/bin/Windows/Fonts/Font.xnb</DestFile>
+  <DestTime>2023-12-08T10:20:45.5454879-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
